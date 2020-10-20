@@ -1,41 +1,41 @@
 colour,layout,profile,backlight,switch,top3_1,top3_2,top3_3,dream_kb
-green,sixtyfive,no,no,black,keycult,vega,rama,ai03 vega
-blue,supercompact,no,no,black,ducky,custom,razer,custom
-blue,tkl,no,yes,black,cyberboard,gk,razer,cyberboard
-yellow,supercompact,no,no,black,cyberboard,gk,rk,cyberboard
-orange,supercompact,no,no,black,discipline,ibmmodelm,tofu,cyberboard
-blue,sixtyfive,no,yes,black,logitech,corsair,gk,gk68xs with cream switch
-black,supercompact,yes,yes,black,gk,anne,-99,gk73
-red,tkl,no,no,red,hyperx,razer,reddragon,hyperx
-blue,supercompact,no,no,black,hubble,fuji,constellation,iron165 fe
-blue,compact,no,yes,blue,kbd,-99,-99,kbd75
-black,tkl,no,no,tactile,topre,keycult,tgr,keycult no. 1 rev. 2 tkl
-green,sixtyfive,no,yes,tactile,melody,vega,keycult,keycult no2/65
-blue,tkl,no,no,tactile,ducky,ibmmodelm,hhkb,keycult no2/65
-black,compact,no,no,tactile,leopold,kbdfan,tofu,keycult no. 1 rev. 2 tkl
-grey,sixtyfive,no,yes,black,tofu,tofu,rama,keycult no2/65
-white,supercompact,no,yes,red,-99,gk,leopold,keycult no2/65
-green,full,no,yes,black,logitech,logitech,logitech,logitech g915
-blue,supercompact,yes,no,red,logitech,targus,fantech,logitech wireless k400 plus
-black,compact,yes,no,tactile,logitech,logitech,apple,logitech wireless k400 plus
-black,supercompact,no,yes,red,tofu,nk,gk,nk65v2
-blue,tkl,no,no,tactile,leopold,ducky,norbatouch,norbaforce
-black,full,no,no,black,tgr,singa,otd,otd 356cl
-black,supercompact,no,no,red,rama,hhkb,keycult,rama m60
-white,tkl,no,yes,tactile,ramat,hhkb,realforce,rama u80-a
-black,supercompact,no,no,black,ramat,leopold,tofu,rama u80-a
-yellow,supercompact,no,yes,tactile,topre,vortex,custom,rama60
-green,full,yes,yes,red,razer,-99,-99,razer blackwidow v3 pro wireless mechanical gaming keyboard - black
-blue,compact,no,yes,red,razer,logitech,asus,razer hutsman mini
-green,full,no,yes,optical switch,razer,-99,-99,razer hutsman mini
-red,compact,yes,yes,-99,rog,rogtkl,rog,rog strix flare pnk ltd
-blue,tkl,no,yes,black,steelseries,phantomtecware,ducky,satisfaction 75
-black,tkl,no,no,blue,hhkb,keeblade,tofu,satisfaction 75
-pink,tkl,no,yes,black,phantomtecware,wormier,gk,singa v3
-cyan,compact,no,yes,tactile,anne,phantomtecware,coolermastert,steelseries apex pro tkl
-red,full,no,yes,red,logitech,phantomtecware,gskill,tecware phantom elite with gateron yellows
-blue,sixtyfive,no,yes,blue,kemove,ducky,filco,tex shinobi
-blue,compact,no,no,red,tofu,arisu,singa,tgr x singa
-black,supercompact,no,yes,tactile,ducky,hhkb,dz,tofu60
-non,compact,no,no,blue,topre,ducky,filco,topre ivory 55g tkl
-purple,compact,yes,yes,red,keychron,vortexgear,ducky,vortexgear race 3
+green,sixtyfive,no,no,black,keycult,vega,rama,7
+blue,supercompact,no,no,black,ducky,custom,razer,8
+blue,tkl,no,yes,black,cyberboard,gk,razer,1
+yellow,supercompact,no,no,black,cyberboard,gk,rk,1
+orange,supercompact,no,no,black,discipline,ibmmodelm,tofu,1
+blue,sixtyfive,no,yes,black,logitech,corsair,gk,9
+black,supercompact,yes,yes,black,gk,anne,-99,10
+red,tkl,no,no,red,hyperx,razer,reddragon,11
+blue,supercompact,no,no,black,hubble,fuji,constellation,12
+blue,compact,no,yes,blue,kbd,-99,-99,13
+black,tkl,no,no,tactile,topre,keycult,tgr,2
+green,sixtyfive,no,yes,tactile,melody,vega,keycult,0
+blue,tkl,no,no,tactile,ducky,ibmmodelm,hhkb,0
+black,compact,no,no,tactile,leopold,kbdfan,tofu,2
+grey,sixtyfive,no,yes,black,tofu,tofu,rama,0
+white,supercompact,no,yes,red,-99,gk,leopold,0
+green,full,no,yes,black,logitech,logitech,logitech,14
+blue,supercompact,yes,no,red,logitech,targus,fantech,3
+black,compact,yes,no,tactile,logitech,logitech,apple,3
+black,supercompact,no,yes,red,tofu,nk,gk,15
+blue,tkl,no,no,tactile,leopold,ducky,norbatouch,16
+black,full,no,no,black,tgr,singa,otd,17
+black,supercompact,no,no,red,rama,hhkb,keycult,18
+white,tkl,no,yes,tactile,ramat,hhkb,realforce,4
+black,supercompact,no,no,black,ramat,leopold,tofu,4
+yellow,supercompact,no,yes,tactile,topre,vortex,custom,19
+green,full,yes,yes,red,razer,-99,-99,20
+blue,compact,no,yes,red,razer,logitech,asus,5
+green,full,no,yes,optical switch,razer,-99,-99,5
+red,compact,yes,yes,-99,rog,rogtkl,rog,21
+blue,tkl,no,yes,black,steelseries,phantomtecware,ducky,6
+black,tkl,no,no,blue,hhkb,keeblade,tofu,6
+pink,tkl,no,yes,black,phantomtecware,wormier,gk,22
+cyan,compact,no,yes,tactile,anne,phantomtecware,coolermastert,23
+red,full,no,yes,red,logitech,phantomtecware,gskill,24
+blue,sixtyfive,no,yes,blue,kemove,ducky,filco,25
+blue,compact,no,no,red,tofu,arisu,singa,26
+black,supercompact,no,yes,tactile,ducky,hhkb,dz,27
+non,compact,no,no,blue,topre,ducky,filco,28
+purple,compact,yes,yes,red,keychron,vortexgear,ducky,29
