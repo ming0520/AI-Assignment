@@ -5,16 +5,16 @@ blue,tkl,no,yes,black,cyberboard,gk,razer,1
 yellow,supercompact,no,no,black,cyberboard,gk,rk,1
 orange,supercompact,no,no,black,discipline,ibmmodelm,tofu,1
 blue,sixtyfive,no,yes,black,logitech,corsair,gk,9
-black,supercompact,yes,yes,black,gk,anne,-99,10
+black,supercompact,yes,yes,black,gk,anne,NaN,10
 red,tkl,no,no,red,hyperx,razer,reddragon,11
 blue,supercompact,no,no,black,hubble,fuji,constellation,12
-blue,compact,no,yes,blue,kbd,-99,-99,13
+blue,compact,no,yes,blue,kbd,NaN,NaN,13
 black,tkl,no,no,tactile,topre,keycult,tgr,2
 green,sixtyfive,no,yes,tactile,melody,vega,keycult,0
 blue,tkl,no,no,tactile,ducky,ibmmodelm,hhkb,0
 black,compact,no,no,tactile,leopold,kbdfan,tofu,2
 grey,sixtyfive,no,yes,black,tofu,tofu,rama,0
-white,supercompact,no,yes,red,-99,gk,leopold,0
+white,supercompact,no,yes,red,NaN,gk,leopold,0
 green,full,no,yes,black,logitech,logitech,logitech,14
 blue,supercompact,yes,no,red,logitech,targus,fantech,3
 black,compact,yes,no,tactile,logitech,logitech,apple,3
@@ -25,10 +25,10 @@ black,supercompact,no,no,red,rama,hhkb,keycult,18
 white,tkl,no,yes,tactile,ramat,hhkb,realforce,4
 black,supercompact,no,no,black,ramat,leopold,tofu,4
 yellow,supercompact,no,yes,tactile,topre,vortex,custom,19
-green,full,yes,yes,red,razer,-99,-99,20
+green,full,yes,yes,red,razer,NaN,NaN,20
 blue,compact,no,yes,red,razer,logitech,asus,5
-green,full,no,yes,optical switch,razer,-99,-99,5
-red,compact,yes,yes,-99,rog,rogtkl,rog,21
+green,full,no,yes,optical switch,razer,NaN,NaN,5
+red,compact,yes,yes,NaN,rog,rogtkl,rog,21
 blue,tkl,no,yes,black,steelseries,phantomtecware,ducky,6
 black,tkl,no,no,blue,hhkb,keeblade,tofu,6
 pink,tkl,no,yes,black,phantomtecware,wormier,gk,22
