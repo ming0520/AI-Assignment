@@ -1,41 +1,41 @@
 colour,layout,profile,backlight,switch,top3_1,top3_2,top3_3,dream_kb
-green,65%,non low-profile,no,"linear - black - fast, quite, heavy",keycult,vega,rama,ai03 vega
-blue,"super compact, 60%",non low-profile,no,"linear - black - fast, quite, heavy",ducky,custom,razer,custom
-blue,"tkl, 87%-88% (87-88 key)",non low-profile,yes,"linear - black - fast, quite, heavy",cyberboard,gk,razer,cyberboard
-yellow,"super compact, 60%",non low-profile,no,"linear - black - fast, quite, heavy",cyberboard,gk,rk,cyberboard
-orange,"super compact, 60%",non low-profile,no,"linear - black - fast, quite, heavy",discipline,ibmmodelm,tofu,cyberboard
-blue,65%,non low-profile,yes,"linear - black - fast, quite, heavy",logitech,corsair,gk,gk68xs with cream switch
-black,"super compact, 60%",low profile (slim),yes,"linear - black - fast, quite, heavy",gk,anne,-99,gk73
-red,"tkl, 87%-88% (87-88 key)",non low-profile,no,"linear - red - fast, quite, light",hyperx,razer,reddragon,hyperx
-blue,"super compact, 60%",non low-profile,no,"linear - black - fast, quite, heavy",hubble,fuji,constellation,iron165 fe
-blue,"compact, 75%",non low-profile,yes,clicky - blue,kbd,-99,-99,kbd75
-black,"tkl, 87%-88% (87-88 key)",non low-profile,no,tactile,topre,keycult,tgr,keycult no. 1 rev. 2 tkl
-green,65%,non low-profile,maybe,tactile,melody,vega,keycult,keycult no2/65
-blue,"tkl, 87%-88% (87-88 key)",non low-profile,no,tactile,ducky,ibmmodelm,hhkb,keycult no2/65
-black,"compact, 75%",non low-profile,no,tactile,leopold,kbdfan,tofu,keycult no. 1 rev. 2 tkl
-grey,65%,non low-profile,yes,"linear - black - fast, quite, heavy",tofu,tofu,rama,keycult no2/65
-white,"super compact, 60%",non low-profile,yes,"linear - red - fast, quite, light",-99,gk,leopold,keycult no2/65
-green,"full size, 100% (more than 104 key)",non low-profile,maybe,"linear - black - fast, quite, heavy",logitech,logitech,logitech,logitech g915
-blue,"super compact, 60%",low profile (slim),no,"linear - red - fast, quite, light",logitech,targus,fantech,logitech wireless k400 plus
-black,"compact, 75%",low profile (slim),no,tactile,logitech,logitech,apple,logitech wireless k400 plus
-black,"super compact, 60%",non low-profile,yes,"linear - red - fast, quite, light",tofu,nk,gk,nk65v2
-blue,"tkl, 87%-88% (87-88 key)",non low-profile,no,tactile,leopold,ducky,norbatouch,norbaforce
-black,"full size, 100% (more than 104 key)",non low-profile,no,"linear - black - fast, quite, heavy",tgr,singa,otd,otd 356cl
-black,"super compact, 60%",non low-profile,no,"linear - red - fast, quite, light",rama,hhkb,keycult,rama m60
-white,"tkl, 87%-88% (87-88 key)",non low-profile,yes,tactile,ramat,hhkb,realforce,rama u80-a
-black,"super compact, 60%",non low-profile,no,"linear - black - fast, quite, heavy",ramat,leopold,tofu,rama u80-a
-yellow,"super compact, 60%",non low-profile,yes,tactile,topre,vortex,custom,rama60
-green,"full size, 100% (more than 104 key)",low profile (slim),yes,"linear - red - fast, quite, light",razer,-99,-99,razer blackwidow v3 pro wireless mechanical gaming keyboard - black
-blue,"compact, 75%",non low-profile,yes,"linear - red - fast, quite, light",razer,logitech,asus,razer hutsman mini
-green,"full size, 100% (more than 104 key)",non low-profile,yes,optical switch,razer,-99,-99,razer hutsman mini
-red,"compact, 75%",low profile (slim),yes,-99,rog,rogtkl,rog,rog strix flare pnk ltd
-blue,"tkl, 87%-88% (87-88 key)",non low-profile,yes,"linear - black - fast, quite, heavy",steelseries,phantomtecware,ducky,satisfaction 75
-black,"tkl, 87%-88% (87-88 key)",non low-profile,no,clicky - blue,hhkb,keeblade,tofu,satisfaction 75
-pink,"tkl, 87%-88% (87-88 key)",non low-profile,yes,"linear - black - fast, quite, heavy",phantomtecware,wormier,gk,singa v3
-cyan,"compact, 75%",non low-profile,yes,tactile,anne,phantomtecware,coolermastert,steelseries apex pro tkl
-red,"full size, 100% (more than 104 key)",non low-profile,yes,"linear - red - fast, quite, light",logitech,phantomtecware,gskill,tecware phantom elite with gateron yellows
-blue,65%,non low-profile,yes,clicky - blue,kemove,ducky,filco,tex shinobi
-blue,"compact, 75%",non low-profile,no,"linear - red - fast, quite, light",tofu,arisu,singa,tgr x singa
-black,"super compact, 60%",non low-profile,yes,tactile,ducky,hhkb,dz,tofu60
-non,"compact, 75%",non low-profile,no,clicky - blue,topre,ducky,filco,topre ivory 55g tkl
-purple,"compact, 75%",low profile (slim),yes,"linear - red - fast, quite, light",keychron,vortexgear,ducky,vortexgear race 3
+green,sixtyfive,no,no,black,keycult,vega,rama,ai03 vega
+blue,supercompact,no,no,black,ducky,custom,razer,custom
+blue,tkl,no,yes,black,cyberboard,gk,razer,cyberboard
+yellow,supercompact,no,no,black,cyberboard,gk,rk,cyberboard
+orange,supercompact,no,no,black,discipline,ibmmodelm,tofu,cyberboard
+blue,sixtyfive,no,yes,black,logitech,corsair,gk,gk68xs with cream switch
+black,supercompact,yes,yes,black,gk,anne,-99,gk73
+red,tkl,no,no,red,hyperx,razer,reddragon,hyperx
+blue,supercompact,no,no,black,hubble,fuji,constellation,iron165 fe
+blue,compact,no,yes,blue,kbd,-99,-99,kbd75
+black,tkl,no,no,tactile,topre,keycult,tgr,keycult no. 1 rev. 2 tkl
+green,sixtyfive,no,yes,tactile,melody,vega,keycult,keycult no2/65
+blue,tkl,no,no,tactile,ducky,ibmmodelm,hhkb,keycult no2/65
+black,compact,no,no,tactile,leopold,kbdfan,tofu,keycult no. 1 rev. 2 tkl
+grey,sixtyfive,no,yes,black,tofu,tofu,rama,keycult no2/65
+white,supercompact,no,yes,red,-99,gk,leopold,keycult no2/65
+green,full,no,yes,black,logitech,logitech,logitech,logitech g915
+blue,supercompact,yes,no,red,logitech,targus,fantech,logitech wireless k400 plus
+black,compact,yes,no,tactile,logitech,logitech,apple,logitech wireless k400 plus
+black,supercompact,no,yes,red,tofu,nk,gk,nk65v2
+blue,tkl,no,no,tactile,leopold,ducky,norbatouch,norbaforce
+black,full,no,no,black,tgr,singa,otd,otd 356cl
+black,supercompact,no,no,red,rama,hhkb,keycult,rama m60
+white,tkl,no,yes,tactile,ramat,hhkb,realforce,rama u80-a
+black,supercompact,no,no,black,ramat,leopold,tofu,rama u80-a
+yellow,supercompact,no,yes,tactile,topre,vortex,custom,rama60
+green,full,yes,yes,red,razer,-99,-99,razer blackwidow v3 pro wireless mechanical gaming keyboard - black
+blue,compact,no,yes,red,razer,logitech,asus,razer hutsman mini
+green,full,no,yes,optical switch,razer,-99,-99,razer hutsman mini
+red,compact,yes,yes,-99,rog,rogtkl,rog,rog strix flare pnk ltd
+blue,tkl,no,yes,black,steelseries,phantomtecware,ducky,satisfaction 75
+black,tkl,no,no,blue,hhkb,keeblade,tofu,satisfaction 75
+pink,tkl,no,yes,black,phantomtecware,wormier,gk,singa v3
+cyan,compact,no,yes,tactile,anne,phantomtecware,coolermastert,steelseries apex pro tkl
+red,full,no,yes,red,logitech,phantomtecware,gskill,tecware phantom elite with gateron yellows
+blue,sixtyfive,no,yes,blue,kemove,ducky,filco,tex shinobi
+blue,compact,no,no,red,tofu,arisu,singa,tgr x singa
+black,supercompact,no,yes,tactile,ducky,hhkb,dz,tofu60
+non,compact,no,no,blue,topre,ducky,filco,topre ivory 55g tkl
+purple,compact,yes,yes,red,keychron,vortexgear,ducky,vortexgear race 3
